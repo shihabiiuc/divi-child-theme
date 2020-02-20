@@ -8,3 +8,7 @@
  Version:		1.0.0
 */
 
+/* Hide header from the 'Footer Only' template */
+.page-template-page-template-footer-only-php header#main-header{
+	display: none;
+}
