@@ -12,3 +12,11 @@
 .page-template-page-template-footer-only-php header#main-header{
 	display: none;
 }
+
+#text-logo{
+	font-family: 'Open Sans', Arial, sans-serif !important; 
+	font-size: 30px; font-weight: bold;
+	background: -webkit-radial-gradient(#FF9800, #150759);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

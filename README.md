@@ -19,12 +19,16 @@ To achive above example, you've to copy & paste your *page.php* into your *Child
  *Template Name: No Header*
  \*/
 
+## Use Text Logo
+You can also use *text logo*. In this case, your website *name* will be the *text logo*. Navigate to **Settings => General => Site Title** and write the text you want as your logo.
+NB: Reset or remove the existing **image** logo if you already have one.
+*If image logo has been uploaded then image logo will be shown instead of site-title. Site-title only will be work as a text logo when you'll not have existing image logo already in place.*
+
 
 *Thank you,
 Shihab Ul Haque,
 Web Designer & Developer,
 Profile on: [Fiverr](https://www.fiverr.com/shihabiiuc),
 Profile on: [Upwork](https://www.upwork.com/freelancers/~01a9f777bf29c61bb1).*
-
 
 *Interested in a discussion? [Book a schedule](https://calendly.com/shihabdinajpur/client-meeting/), it's free!*
