@@ -1,9 +1,9 @@
 <?php
 
 /*
- Template Name: Footer Only
+ Template Name: No Header
  *
-** Using this template, the appropriate page will only have Footer (without header)
+** Using this template, the appropriate page will not have the Header
 */
 
 get_header();
